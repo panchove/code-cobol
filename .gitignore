@@ -1,0 +1,24 @@
+# Folders
+.vscode
+
+# Prerequisites
+
+# Object files
+*.o
+
+# Linker output
+
+# Precompiled Headers
+
+# Libraries
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+
+# Executables
+*.exe
+*.out
+
+# Debug files

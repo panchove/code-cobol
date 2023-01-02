@@ -1,0 +1,109 @@
+
+Función Intrínseca            Implementado    Parámetros
+ABS                             Sí             1
+ACOS                            Sí             1
+ANNUITY                         Sí             2
+ASIN                            Sí             1
+ATAN                            Sí             1
+BOOLEAN-OF-INTEGER              No              2
+BYTE-LENGTH                     Sí             1 - 2
+CHAR                            Sí             1
+CHAR-NATIONAL                   No              1
+COMBINED-DATETIME               Sí             2
+CONCAT                          Sí             Ilimitado
+CONCATENATE                     Sí             Ilimitado
+CONTENT-LENGTH                  Sí             1
+CONTENT-OF                      Sí             1 - 2
+COS                             Sí             1
+CURRENCY-SYMBOL                 Sí             0
+CURRENT-DATE                    Sí             0
+DATE-OF-INTEGER                 Sí             1
+DATE-TO-YYYYMMDD                Sí             1 - 3
+DAY-OF-INTEGER                  Sí             1
+DAY-TO-YYYYDDD                  Sí             1 - 3
+DISPLAY-OF                      No              1 - 2
+E                               Sí             0
+EXCEPTION-FILE                  Sí             0
+EXCEPTION-FILE-N                No              0
+EXCEPTION-LOCATION              Sí             0
+EXCEPTION-LOCATION-N            No              0
+EXCEPTION-STATEMENT             Sí             0
+EXCEPTION-STATUS                Sí             0
+EXP                             Sí             1
+EXP10                           Sí             1
+FACTORIAL                       Sí             1
+FORMATTED-CURRENT-DATE          Sí             1
+FORMATTED-DATE                  Sí             2
+FORMATTED-DATETIME              Sí             4 - 5
+FORMATTED-TIME                  Sí             3 - 4
+FRACTION-PART                   Sí             1
+HIGHEST-ALGEBRAIC               Sí             1
+INTEGER                         Sí             1
+INTEGER-OF-BOOLEAN              No              1
+INTEGER-OF-DATE                 Sí             1
+INTEGER-OF-DAY                  Sí             1
+INTEGER-OF-FORMATTED-DATE       Sí             2
+INTEGER-PART                    Sí             1
+LENGTH                          Sí             1 - 2
+LENGTH-AN                       Sí             1
+LOCALE-COMPARE                  Sí             2 - 3
+LOCALE-DATE                     Sí             1 - 2
+LOCALE-TIME                     Sí             1 - 2
+LOCALE-TIME-FROM-SECONDS        Sí             1 - 2
+LOG                             Sí             1
+LOG10                           Sí             1
+LOWER-CASE                      Sí             1
+LOWEST-ALGEBRAIC                Sí             1
+MAX                             Sí             Ilimitado
+MEAN                            Sí             Ilimitado
+MEDIAN                          Sí             Ilimitado
+MIDRANGE                        Sí             Ilimitado
+MIN                             Sí             Ilimitado
+MOD                             Sí             2
+MODULE-CALLER-ID                Sí             0
+MODULE-DATE                     Sí             0
+MODULE-FORMATTED-DATE           Sí             0
+MODULE-ID                       Sí             0
+MODULE-PATH                     Sí             0
+MODULE-SOURCE                   Sí             0
+MODULE-TIME                     Sí             0
+MONETARY-DECIMAL-POINT          Sí             0
+MONETARY-THOUSANDS-SEPARATOR    Sí             0
+NATIONAL-OF                     No              1 - 2
+NUMERIC-DECIMAL-POINT           Sí             0
+NUMERIC-THOUSANDS-SEPARATOR     Sí             0
+NUMVAL                          Sí             1
+NUMVAL-C                        Sí             2
+NUMVAL-F                        Sí             1
+ORD                             Sí             1
+ORD-MAX                         Sí             Ilimitado
+ORD-MIN                         Sí             Ilimitado
+PI                              Sí             0
+PRESENT-VALUE                   Sí             Ilimitado
+RANDOM                          Sí             0 - 1
+RANGE                           Sí             Ilimitado
+REM                             Sí             2
+REVERSE                         Sí             1
+SECONDS-FROM-FORMATTED-TIME     Sí             2
+SECONDS-PAST-MIDNIGHT           Sí             0
+SIGN                            Sí             1
+SIN                             Sí             1
+SQRT                            Sí             1
+STANDARD-COMPARE                No              2 - 4
+STANDARD-DEVIATION              Sí             Ilimitado
+STORED-CHAR-LENGTH              Sí             1
+SUBSTITUTE                      Sí             Ilimitado
+SUBSTITUTE-CASE                 Sí             Ilimitado
+SUM                             Sí             Ilimitado
+TAN                             Sí             1
+TEST-DATE-YYYYMMDD              Sí             1
+TEST-DAY-YYYYDDD                Sí             1
+TEST-FORMATTED-DATETIME         Sí             2
+TEST-NUMVAL                     Sí             1
+TEST-NUMVAL-C                   Sí             2
+TEST-NUMVAL-F                   Sí             1
+TRIM                            Sí             1 - 2
+UPPER-CASE                      Sí             1
+VARIANCE                        Sí             Ilimitado
+WHEN-COMPILED                   Sí             0
+YEAR-TO-YYYY                    Sí             1 - 3
