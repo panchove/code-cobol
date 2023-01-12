@@ -5,8 +5,8 @@
        ENVIRONMENT DIVISION.
        DATA DIVISION.
        LOCAL-STORAGE SECTION.
-       77 var-num   PIC 999 VALUE 100.
-       77 ptr-var   POINTER VALUE NULL.
+        77 var-num   PIC 999 VALUE 100.
+        77 ptr-var   POINTER VALUE NULL.
        PROCEDURE DIVISION.
        A0100-MAIN.
         DISPLAY "Value var-num = " var-num.
